@@ -1023,10 +1023,7 @@ function App() {
           and Engineering, Kolkata, India.
         </p>
 
-        <div className="education-score">
-          <strong>8.44</strong>
-          <span>CGPA / 10</span>
-        </div>
+        
 
         <div className="timeline-tags">
           <span>Computer Science</span>
